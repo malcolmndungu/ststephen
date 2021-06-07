@@ -1,0 +1,142 @@
+.carousel .bannerimage{  
+height: 80vh;
+width: 100%;
+}
+.carousel h5{
+    color: crimson;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.carousel p{
+    background-color: firebrick;
+    font-weight: bolder;
+    padding: 10px;
+    font-style: italic;
+}
+.border{
+    background-color: crimson;
+    height: 5px!important;
+width: 40px;
+margin: 10px 0px;
+}
+/* Marketing section */
+.marketingsection p.read{font-style: italic;
+    max-width: 50%;
+    text-align: center;
+
+}
+.marketingsection i{
+    width: 100px;
+    height: 100px;
+    color: crimson;
+    border: 2px solid crimson;
+    padding: 20px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 32px;
+}
+.marketingsection i:hover{
+    border-radius: 50px;
+}
+.excellencesection img{
+    box-shadow: crimson 20px
+    20px;
+}
+.memberSection{
+    padding: 100px;
+}
+.memberSection h2{
+font-weight: bolder;
+font-size: 25px;
+text-align: center;
+}
+.memberSection .border{
+background-color: white;
+height: 5px!important;
+width: 50px;
+margin: 10px 2px;
+}
+.memberSection .p{
+    font-weight: lighter;
+    font-size: 24px;
+}
+.ourExcellence span{
+color: red;
+font-style: italic;
+font-weight: bolder;
+text-decoration: underline;
+text-transform: uppercase!important;
+
+}
+.ourExcellence img{
+    box-shadow: rgba(220, 20, 20, 0.548) 10px -10px;
+}
+.ourExcellence img:hover{
+    transform: scale(1.5);
+    transition: 0.6s linear;
+    border-radius: 50%;
+}
+.newssection h2 span{
+    color: crimson!important;
+}
+.newssection  img{
+height: 1000x;
+}
+.newssection .card p{
+    text-align: center !important;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;       
+}
+.newssection .row{
+    max-width: 100!important;
+}
+.newssection img:hover{
+    opacity: .5;
+    cursor: pointer;
+    transition: scale(1.1);
+    transition: .5s linear;
+}
+.newssection .card{
+transition: .5s linear;
+}
+.newssection .card:hover{
+box-shadow: rgb(255, 0, 0) 0 0 10px;
+cursor: s-resize;
+transition: .7s linear;
+margin-bottom: 10p;
+}
+footer{
+    color: rgb(0, 0, 0); 
+}
+footer h4{
+font-weight: 900;
+text-transform: uppercase;
+}
+footer p span{
+    font-weight: 300;
+}
+footer ul.social li{
+    display: inline-block!important;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    font-size: 28px;
+    border-radius: 40%;
+    border: crimson 1px solid;
+}
+footer ul li a i{
+    position: relative;
+    margin: 10px 10px;
+    color: crimson;
+    
+
+}
+footer ul li:hover{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+footer ul.quick-links{
+    list-style-type: none;
+    color: white;
+}
