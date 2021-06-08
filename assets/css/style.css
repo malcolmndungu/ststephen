@@ -140,3 +140,13 @@ footer ul.quick-links{
     list-style-type: none;
     color: white;
 }
+.bannersection{
+    background-image: url('../images/3.jpg');
+    color: crimson
+}
+
+.accomplishment img:hover{
+    transform: scale(1.5);
+    transition: 0.6s linear;
+    border-radius: 50%;
+}
