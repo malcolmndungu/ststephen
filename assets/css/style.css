@@ -150,3 +150,14 @@ footer ul.quick-links{
     transition: 0.6s linear;
     border-radius: 50%;
 }
+.ourhistory{
+    background-image: url(../images/9.jpg);
+    padding: 20px;
+    color: red;
+    min-height: 120px ;
+    background-size: cover;
+    background-repeat: inherit;
+}
+.valueSectionrow{
+    padding: ;
+}
