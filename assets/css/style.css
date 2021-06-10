@@ -161,3 +161,18 @@ footer ul.quick-links{
 .valueSectionrow{
     padding: ;
 }
+.bannersectionstaff{
+    background-image: url(../images/13.jpg);
+    background-size: cover;
+    min-height: 200px;
+    padding: 80;
+}
+.staffsection img{
+border-radius: 50%;
+transition: .7s linear;
+
+}
+.staffsection img:hover{
+    transform: scale(1.1);
+    box-shadow:  10px 10px  red;
+}
